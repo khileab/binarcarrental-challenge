@@ -1,0 +1,11 @@
+@media screen and (min-width: 360px) {
+  .section-title {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .section-title {
+    text-align: left;
+  }
+}
